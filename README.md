@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-<!--# 👩‍💻 Gabriela Oliveira
+# 👩‍💻 Gabriela Oliveira
 
 🎓 Estudante de Ciência da Computação  
 ☕ Criando vínculos e memórias afertivas com Java e desenvolvimento de software \o/ 
+
 📚 Sempre aprendendo e explorando novas tecnologias
 
 ---
@@ -31,7 +32,7 @@ Repositório com exercícios práticos de Java: estruturas de repetição, array
 🔗 [Acesse aqui]()
 
 🚀 **Projeto X (futuro)**  
-Estou começando a lentar requisitos para a criação de um projeto de software laboratórial. Em breve, atualizações. :)
+Estou começando a levantar requisitos para a criação de um projeto de software laboratórial. Em breve, atualizações. :)
 
 ---
 
