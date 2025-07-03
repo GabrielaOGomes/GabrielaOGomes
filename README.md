@@ -32,7 +32,7 @@ Repositório com exercícios práticos de Java: estruturas de repetição, array
 🔗 [Acesse aqui]()
 
 🚀 **Projeto X (futuro)**  
-Estou começando a levantar requisitos para a criação de um projeto de software laboratórial. Em breve, atualizações. :)
+Estou começando a levantar requisitos para a criação de um projeto de software laboratorial. Em breve, atualizações. :)
 
 ---
 
