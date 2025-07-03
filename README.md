@@ -3,7 +3,7 @@
 # 👩‍💻 Gabriela Oliveira
 
 🎓 Estudante de Ciência da Computação  
-☕ Criando vínculos e memórias afertivas com Java e desenvolvimento de software \o/ 
+☕ Criando vínculos e memórias afetivas com Java e desenvolvimento de software \o/ 
 
 📚 Sempre aprendendo e explorando novas tecnologias
 
