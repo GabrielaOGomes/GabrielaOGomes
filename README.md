@@ -31,7 +31,7 @@ Tenho grande interesse em desenvolvimento backend com Java e quero explorar mais
 Repositório com exercícios práticos de Java: estruturas de repetição, arrays, classes, herança, exceções e muito mais.  
 🔗 [Acesse aqui]()
 
-🚀 **Projeto X (futuro)**  
+🚀 **Projeto LabSys (futuro)**  
 Estou começando a levantar requisitos para a criação de um projeto de software laboratorial. Em breve, atualizações. :)
 
 ---
