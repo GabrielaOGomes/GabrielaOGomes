@@ -11,10 +11,9 @@
 
 ## 🛠️ Tecnologias que estou aprendendo
 
-- Java (Orientação a Objetos, Collections, Spring Boot)
+- Java (Collections, Spring Boot, Maven, Gradle)
 - HTML, CSS e um pouco de JavaScript
 - Git e GitHub
-- Lógica de programação e estruturas de dados
 
 ---
 
@@ -28,7 +27,7 @@ Tenho grande interesse em desenvolvimento backend com Java e quero explorar mais
 ## 📂 Projetos em destaque
 
 🌱 **Estudos Java**  
-Repositório com exercícios práticos de Java: estruturas de repetição, arrays, classes, herança, exceções e muito mais.  -EM BREVE-
+Repositório com exercícios práticos de Java: estruturas de repetição, arrays, classes, herança, exceções e muito mais.  - EM CONSTRUÇÃO -
 
 🚀 **Projeto Sistema de laboratório (futuro)**  
 Estou começando a levantar requisitos para a criação de um projeto de software laboratorial. Em breve, atualizações. :)
