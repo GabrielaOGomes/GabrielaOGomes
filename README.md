@@ -14,13 +14,14 @@
 - Java (Collections, Spring Boot, Maven, Gradle)
 - HTML, CSS e um pouco de JavaScript
 - Git e GitHub
+- AWS 
 
 ---
 
 ## 📌 Sobre mim
 
 Sou estudante de Ciência da Computação em constante evolução. Gosto de resolver problemas com código e estou construindo meus projetos com base no que aprendo diariamente. 
-Tenho grande interesse em desenvolvimento backend com Java e quero explorar mais áreas como APIs, bancos de dados e cloud.
+Tenho grande interesse em desenvolvimento backend com Java e quero explorar mais áreas como APIs, microserviços, bancos de dados e cloud.
 
 ---
 
